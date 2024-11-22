@@ -135,7 +135,6 @@ img {
     
 }
 
-
 .head-title {
     color: #FFFFFF;
     text-align: center;
@@ -188,6 +187,24 @@ img {
    display: flex;
    gap: 24px;
 }
+.box-icons {
+    border-radius: 4px;
+    border: 1px solid #8e8f99;
+    background: #e7e9fc;
+    width: 264px;
+    height: 112px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.icon {
+    background-color: #e7e9fc;    
+    width: 64px;
+    height: 64px;
+    
+        
+}
 .feat-items {
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
@@ -198,6 +215,7 @@ img {
     letter-spacing: 0.02em;
     color: #2e2f42;
     margin-bottom: 8px;
+    margin-top: 8px;
 }
 .feat-text {
     color: #434455;
