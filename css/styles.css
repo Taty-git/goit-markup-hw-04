@@ -265,6 +265,25 @@ img {
     text-align: center;
     margin-bottom: 8px;
 }
+.social-link-list {
+    display: flex;
+    list-style-type: none;
+    background-color: #FFFFFF;
+    align-items: center;
+    gap: 24px;
+    justify-content: center;
+}
+
+
+.icon-link {
+    margin-top: 8px;
+    background-color: #FFFFFF;
+}
+.soc-icon {
+    background-color: #4D5AE5;
+    border-radius: 50%;
+  
+}
 .team-text, .portfolio-text {
     color: #434455;
     font-size: 16px;
