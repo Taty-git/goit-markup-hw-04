@@ -308,7 +308,7 @@ img {
     height: 100%;
 }
 .social-link:hover,
-.social-link:active,
+.social-link:focus,
 .icons:hover {
     background-color: #404BBF;
 }
@@ -322,6 +322,7 @@ img {
 }
 .icons, .icons-foot{
     background-color: #4D5AE5;
+    fill: #f4f4fd;
       }
 
 .team-text, .portfolio-text {
