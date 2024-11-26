@@ -431,6 +431,9 @@ img {
     font-size: 18px;
     text-transform: uppercase;
 }
+.foot-logo-box: {
+    display: block;
+}
 .social-links-footer {
     display: flex;
     list-style-type: none;
@@ -448,13 +451,13 @@ h3 {
     letter-spacing: 0.02em;
     color: #fff;
 }
-.container, .footer-media {
+.foot> .container {
     display: flex;
 }
 .footer-media {
     display: block;
     margin-left: 120px;
-
+   
 }
 .social-link-foot:hover,
 .icons-foot:hover {
