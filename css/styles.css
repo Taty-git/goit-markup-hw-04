@@ -103,6 +103,10 @@ img {
 .link:hover, .link:active, .link:focus {
     color: #404BBF;    
 }
+.first-nav {
+    transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+}
 .link1::after {
     content:"";
     width: 100%;
