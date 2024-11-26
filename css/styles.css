@@ -220,12 +220,11 @@ img {
    
 }
 .icon {
-    background-color: #e7e9fc;    
+       
     width: 64px;
     height: 64px;
-    
-        
 }
+
 .feat-items {
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
