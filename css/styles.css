@@ -313,7 +313,7 @@ img {
     background-color: #404BBF;
 }
 .address-link:hover {
-    background-color: #404BBF;
+    color: #404BBF;
 }
 
 .icon-link, .icon-link-foot {
@@ -324,7 +324,9 @@ img {
     background-color: #4D5AE5;
     fill: #f4f4fd;
       }
-
+.icons:focus{
+    background-color: #404BBF;
+}
 .team-text, .portfolio-text {
     color: #434455;
     font-size: 16px;
