@@ -442,6 +442,10 @@ img {
     letter-spacing: 0.02em;
     width: 264px;
 }
+.foot-logo-box {
+    margin-right: 120px;
+}
+
   .logo-foot {
     line-height: 1.17;
     letter-spacing: 0.03em;
@@ -453,6 +457,7 @@ img {
     display: inline-block;
     margin-bottom: 16px;
     text-decoration: none;
+    
   }
   .span-logo-foot {
     color: #f4f4fd;
@@ -473,13 +478,14 @@ img {
     padding-top: 16px;
 
 }
-h3 {
+.social-media {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 150%;
     letter-spacing: 0.02em;
     color: #fff;
+    line-height: 1.5;
+    margin-bottom: 16px;
 }
 .foot> .container {
     display: flex;
@@ -490,6 +496,10 @@ h3 {
    
 }
 .social-link-foot:hover,
+.social-link-foot:focus,
 .icons-foot:hover {
     background-color: #31D0AA;
+}
+.icons-foot{
+    fill: #f4f4fd;
 }
