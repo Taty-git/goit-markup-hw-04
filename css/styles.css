@@ -104,7 +104,7 @@ img {
     color: #404BBF;    
 }
 
-.link1::after {
+.link-one {
     content:"";
     width: 100%;
     position: absolute;
