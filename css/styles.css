@@ -374,9 +374,7 @@ img {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding-top: 40px;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding: 40px 32px;
     color: #f4f4fd;
     background-color: #4d5ae5;
     height: 100%;
